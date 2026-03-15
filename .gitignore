@@ -2,3 +2,10 @@
 os.iso
 /iso
 /build
+cmake-build-debug/
+
+# environment variables
+.env
+
+# jetbrains ide slop
+.idea
