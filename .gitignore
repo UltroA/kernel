@@ -9,3 +9,7 @@ cmake-build-debug/
 
 # jetbrains ide slop
 .idea
+
+# I HATE MACOS
+._.DS_Store
+.DS_Store
